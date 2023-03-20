@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137248441834",
+    "project_id": "hivefitx-60db4",
+    "storage_bucket": "hivefitx-60db4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137248441834:android:6b738b4e81ed54387e9e93",
+        "android_client_info": {
+          "package_name": "com.udaykrishna.hivefitx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137248441834-r0mrjc4tfhh9piistgpgpfdb10abjg3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXvX0X4uhVrkziSY8wbVVItUx4Jhx0uA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137248441834-r0mrjc4tfhh9piistgpgpfdb10abjg3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
